@@ -31,9 +31,13 @@ Sentiment: Sentiment of the tweet
 Workflow in this Project
 ![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/2b38f641-cf91-49d5-bca8-fa03682c70db)
 
-2. Exploratory Data Analysis
+
+# 2. Exploratory Data Analysis
    
-4. The original dataset has 6 columns and 41157 rows.
+The original dataset has 6 columns and 41157 rows.
 
 There are five types of sentiments- Extremely Negative, Negative, Neutral, Positive and Extremely Positive.
+
+![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/322ec000-e931-4a59-965b-2136d889886f)
+
 
