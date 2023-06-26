@@ -27,8 +27,8 @@ Original Tweet: The exact tweet
 
 Sentiment: Sentiment of the tweet
 
-
 Workflow in this Project
+
 ![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/2b38f641-cf91-49d5-bca8-fa03682c70db)
 
 
