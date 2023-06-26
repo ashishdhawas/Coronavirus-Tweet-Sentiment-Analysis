@@ -88,6 +88,32 @@ In tokenization we convert group of sentence into token . It is also called text
 
 7. CatBoost
 
+# 5. Evaluation
+
+For Multiclass Classification we got accuracy as -
+
+![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/370d9533-6334-40d8-a5d7-9411e9778ad5)
+
+For Binary Classification we got accuracy as -
+
+![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/0da7f26b-527b-48bb-9012-13d7413da85a)
+
+Also Confusion Matrix for Binary Classification -
+
+![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/14da91f4-0f52-49df-a4d3-cb8e87553721)
+
+# 6. Conclusion
+
+For multiclass classification, the best model for this dataset would be CatBoost
+
+For binary classification, the best model for this dataset would be Stochastic Gradient Descent
+
+![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/a7f66166-3ab5-4405-ac8a-cc6bc852eb90)
+
+
+
+
+
 
 
 
