@@ -16,11 +16,17 @@ Our objective is to build a classification model to predict the sentiment of COV
 ![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/6f548e37-60e4-4df1-949d-ea3068c67718)
 
 We are given the following information:
+
 Username: Unique user-IDs of the users
+
 Location: Location of the user
+
 Tweet At: Date at which the tweet was made
+
 Original Tweet: The exact tweet
+
 Sentiment: Sentiment of the tweet
+
 
 Workflow in this Project
 ![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/2b38f641-cf91-49d5-bca8-fa03682c70db)
