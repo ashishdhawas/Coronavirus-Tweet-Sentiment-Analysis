@@ -15,7 +15,7 @@ Our objective is to build a classification model to predict the sentiment of COV
 
 ![image](https://github.com/ashishdhawas/Coronavirus-Tweet-Sentiment-Analysis/assets/86394831/6f548e37-60e4-4df1-949d-ea3068c67718)
 
-We are given the following information:
+**We are given the following information:**
 
 Username: Unique user-IDs of the users
 
